@@ -1,0 +1,159 @@
+header-font{
+    font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+    font-style: normal;
+    font-size: 20px;
+    color: white;
+}
+
+greeting-font{
+    font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+    font-style: normal;
+    background-color: firebrick;
+    font-size: 60px;
+    padding: 10px;
+    color: white;
+}
+greeting-sub-font{
+    font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+    font-style: normal;
+    background-color: crimson;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+head-font{
+    font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+    font-style: normal;
+    font-size: 50px;    
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background-color: #CC0000;
+    border-radius: 15px ;
+    width: 350px;
+}
+body-article-head{
+    font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+    font-style: normal;
+    font-size: 25px;    
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background-color: darkslategray;
+    border-radius: 15px 50px;
+    width: 200px;
+}
+
+body-article-body{
+    font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+    font-style: normal;
+    text-indent: 50px;
+    font-size: 20px;    
+    color: black;
+    padding: 10px 10px;
+    text-align: justify;
+    text-decoration: none;
+    display: inline-block;
+    background-color: oldlace;    
+    width: 500px;
+}
+
+per-info{
+    font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+    font-style: normal;
+    font-size: 20px;    
+    color: black;
+    padding: 10px 10px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    background-color: oldlace;    
+    width: 300px;
+}
+
+df-pic{
+    font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+    font-style: normal;
+    font-size: 18px;    
+    color: white;
+    padding: 10px 10px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    //background-color: darkslateblue; 
+}
+
+hobby-links{
+    font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+    font-style: normal;
+    font-size: 20px;    
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background-color:cadetblue;
+    border-radius: 15px 50px;
+    width: 200px;
+}
+
+hobby-foreword-gaming{
+    font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+    font-style: normal;
+    font-size: 20px;    
+    color: white;
+    padding: 10px 10px;
+    text-align: justify;
+    text-decoration: none;
+    display: inline-block;
+    background-color: limegreen;
+    border-radius: 15px 50px;
+    width: 900px;
+}
+
+hobby-foreword-music{
+    font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+    font-style: normal;
+    font-size: 20px;
+    color: white;
+    padding: 10px 10px;
+    text-align: justify;
+    text-decoration: none;
+    display: inline-block;
+    background-color:dodgerblue;
+    border-radius: 15px 50px;
+    width: 900px;
+}
+
+hobby-foreword-shows{
+    font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+    font-style: normal;
+    font-size: 20px;    
+    color: white;
+    padding: 10px 10px;
+    text-align: justify;
+    text-decoration: none;
+    display: inline-block;
+    background-color: firebrick;
+    border-radius: 15px 50px;
+    width: 900px;
+}
+
+works-desc{
+    font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+    font-style: normal;
+    font-size: 20px;    
+    color: white;
+    padding: 10px 10px;
+    text-align: justify;
+    text-decoration: none;
+    display: inline-block;
+    background-color: firebrick;
+    border-radius: 15px 50px;
+    width: 900px;
+}
