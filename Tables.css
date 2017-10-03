@@ -1,0 +1,27 @@
+table-header{
+    text-align: center;
+}
+
+table, td, th {    
+    //border: 3px solid #ddd;
+    margin: auto;
+    width: auto;
+    height: auto;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+
+th, td {
+    vertical-align: top;
+    text-align: justify;
+    text-align: center;
+    padding: 15px;
+    //background-color: aliceblue;
+   // opacity: 0.9;
+   // filter: alpha(opacity=60); /* For IE8 and earlier */
+}
